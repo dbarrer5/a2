@@ -1,0 +1,454 @@
+store,city,state,zip
+2,"st. petersburg",FL,33710
+3,"st. louis",MO,63126
+4,"little rock",AR,72201
+7,"fort worth",TX,76137
+9,tempe,AZ,85281
+60,aspen,CO,81611
+62,tulsa,OK,74110
+65,"san antonio",TX,78218
+67,dallas,TX,75207
+100,salisbury,NC,28146
+102,tampa,FL,33607
+103,"st louis",MO,63117
+104,charlotte,NC,28216
+107,hurst,TX,76053
+109,phoenix,AZ,85015
+163,"st charles",MO,63301
+200,valdosta,GA,31601
+202,tampa,FL,33612
+203,chesterfield,MO,63017
+204,"hot springs",AR,71913
+207,arlington,TX,76011
+209,scottsdale,AZ,85251
+269,raleigh,NC,27615
+300,olathe,KS,66062
+302,tampa,FL,33625
+303,"st. ann",MO,63074
+304,fayetteville,AR,72703
+307,irving,TX,75062
+309,phoenix,AZ,85051
+400,mabelvale,AR,72103
+402,brandon,FL,33511
+403,florissant,MO,63034
+404,"pine bluff",AR,71601
+407,"ft. worth",TX,76132
+409,phoenix,AZ,85032
+500,louisville,KY,40218
+502,"st petersburg",FL,33710
+503,"st. louis",MO,63129
+504,"little rock",AR,72205
+507,"fort worth",TX,76116
+509,mesa,AZ,85202
+600,gardena,CA,90248
+603,"fairview heights",IL,62208
+604,jonesboro,AR,72401
+609,phoenix,AZ,85033
+700,"ft. worth",TX,76111
+703,"st. louis",MO,63126
+704,"north little rock",AR,72116
+707,dallas,TX,75240
+709,glendale,AZ,85308
+800,olathe,KS,66062
+802,clearwater,FL,33761
+804,rogers,AR,72756
+807,richardson,TX,75081
+809,chandler,AZ,85226
+813,"st. louis",MO,63101
+900,gilbert,AZ,85233
+902,lakeland,FL,33809
+903,"st. peters",MO,63376
+904,collierville,TN,38017
+907,denton,TX,76205
+909,mesa,AZ,85206
+1000,"little rock",AR,72201
+1002,"port richey",FL,34668
+1003,marion,IL,62959
+1004,memphis,TN,38117
+1007,plano,TX,75075
+1009,yuma,AZ,85365
+1100,"baton rouge",LA,70801
+1102,bradenton,FL,34205
+1103,"jefferson city",MO,65109
+1104,memphis,TN,38133
+1107,lewisville,TX,75067
+1109,prescott,AZ,86303
+1202,sarasota,FL,34239
+1203,columbia,MO,65203
+1204,memphis,TN,38115
+1207,mesquite,TX,75150
+1302,sarasota,FL,34238
+1304,"fort smith",AR,72903
+1307,sherman,TX,75090
+1400,gilbert,AZ,85233
+1402,"port charlotte",FL,33948
+1403,springfield,MO,65804
+1404,vicksburg,MS,39180
+1407,arlington,TX,76015
+1502,"ft myers",FL,33901
+1504,southaven,MS,38671
+1507,garland,TX,75040
+1509,tucson,AZ,85705
+1602,naples,FL,34102
+1607,dallas,TX,75225
+1609,flagstaff,AZ,86004
+1702,"lake wales",FL,33859
+1703,"st. joseph",MO,64506
+1704,nashville,TN,37211
+1707,dallas,TX,75237
+1709,tucson,AZ,85711
+1800,tempe,AZ,85281
+1802,"bonita springs",FL,34135
+1804,jackson,MS,39209
+1807,plano,TX,75093
+1819,tucson,AZ,85716
+1904,ridgeland,MS,39157
+1909,"sierra vista",AZ,85635
+2004,tullahoma,TN,37388
+2007,"san antonio",TX,78216
+2009,albuquerque,NM,87114
+2100,salisbury,NC,28146
+2102,orlando,FL,32809
+2103,"kansas city",MO,64114
+2104,nashville,TN,37215
+2107,"san antonio",TX,78256
+2109,albuquerque,NM,87110
+2200,valdosta,GA,31601
+2202,oviedo,FL,32765
+2203,"overland park",KS,66214
+2204,goodlettsville,TN,37072
+2207,"san antonio",TX,78247
+2209,"santa fe",NM,87505
+2300,olathe,KS,66062
+2303,independence,MO,64057
+2304,antioch,TN,37013
+2307,"san antonio",TX,78238
+2309,farmington,NM,87402
+2312,"winter park",FL,32789
+2400,mabelvale,AR,72103
+2402,sanford,FL,32771
+2404,nashville,TN,37221
+2407,"san antonio",TX,78205
+2409,"el paso",TX,79925
+2500,jeffersontown,KY,40299
+2502,ocoee,FL,34761
+2503,"kansas city",MO,64155
+2504,franklin,TN,37067
+2509,"las cruces",NM,88011
+2517,"san antonio",TX,78216
+2600,gardena,CA,90248
+2602,"altamonte springs",FL,32701
+2603,mission,KS,66205
+2604,clarksville,TN,37040
+2607,laredo,TX,78041
+2609,"el paso",TX,79912
+2700,"ft. worth",TX,76137
+2702,orlando,FL,32803
+2704,murfreesboro,TN,37129
+2707,mcallen,TX,78501
+2719,"el paso",TX,79925
+2804,knoxville,TN,37919
+2807,harlingen,TX,78552
+2809,"st george",UT,84790
+2900,gilbert,AZ,85233
+2904,knoxville,TN,37924
+2907,brownsville,TX,78526
+2909,logan,UT,84341
+3000,carson,CA,90746
+3002,jacksonville,FL,32246
+3003,wichita,KS,67207
+3004,chattanooga,TN,37421
+3007,waco,TX,76710
+3009,murray,UT,84107
+3100,salisbury,NC,28146
+3102,jacksonville,FL,32225
+3103,wichita,KS,67209
+3107,temple,TX,76502
+3109,ogden,UT,84405
+3200,valdosta,GA,31601
+3202,"orange park",FL,32073
+3204,shreveport,LA,71104
+3207,killeen,TX,76543
+3209,sandy,UT,84070
+3300,olathe,KS,66062
+3302,jacksonville,FL,32256
+3303,hutchinson,KS,67501
+3304,"bossier city",LA,71111
+3307,austin,TX,78746
+3309,provo,UT,84601
+3367,austin,TX,52011
+3400,mabelvale,AR,72103
+3402,gainesville,FL,32605
+3403,salina,KS,67401
+3404,shreveport,LA,71118
+3407,austin,TX,78752
+3409,boise,ID,83704
+3500,jeffersontown,KY,40299
+3502,"daytona beach",FL,32114
+3503,manhattan,KS,66502
+3504,monroe,LA,71203
+3507,"cedar park",TX,78613
+3509,pocatello,ID,83202
+3600,gardena,CA,90248
+3602,"merritt island",FL,32952
+3603,topeka,KS,66604
+3604,alexandria,LA,71301
+3607,"college station",TX,77840
+3609,"idaho falls",ID,83404
+3700,"fort worth",TX,76137
+3702,melbourne,FL,32904
+3704,texarkana,TX,75503
+3707,victoria,TX,77904
+3709,missoula,MT,59801
+3800,"monmouth junction",NJ,8852
+3802,"jensen beach",FL,34957
+3804,asheboro,NC,27203
+3807,"corpus christi",TX,78411
+3809,helena,MT,59601
+3900,gilbert,AZ,85233
+3902,"spanish fort",AL,36527
+3909,billings,MT,59102
+4003,"west des moines",IA,50266
+4004,raleigh,NC,27616
+4007,amarillo,TX,79121
+4062,winston-salem,NC,27105
+4102,mobile,AL,36606
+4103,omaha,NE,68114
+4104,cary,NC,27511
+4107,clovis,NM,88101
+4109,"las vegas",NV,89109
+4165,dayton,NJ,8810
+4202,pensacola,FL,32504
+4203,"council bluffs",IA,51503
+4204,"chapel hill",NC,27514
+4207,"wichita falls",TX,76308
+4209,"las vegas",NV,89107
+4302,tallahassee,FL,32301
+4303,omaha,NE,68144
+4304,durham,NC,27707
+4307,lubbock,TX,79414
+4309,"las vegas",NV,89119
+4402,"vero beach",FL,32966
+4403,lincoln,NE,68505
+4404,greensboro,NC,27407
+4407,abilene,TX,79606
+4409,henderson,NV,89014
+4502,tallahassee,FL,32303
+4503,"grand island",NE,68803
+4504,winston-salem,NC,27103
+4507,"san angelo",TX,76904
+4565,lyndhurst,NJ,7071
+4603,coralville,IA,52241
+4604,hickory,NC,28602
+4607,midland,TX,79705
+4702,"mary esther",FL,32569
+4703,waterloo,IA,50702
+4704,"high point",NC,27262
+4707,odessa,TX,79762
+4802,"panama city",FL,32405
+4803,davenport,IA,52806
+4804,asheville,NC,28805
+4807,longview,TX,75605
+4902,biloxi,MS,39531
+4903,moline,IL,61265
+4904,asheville,NC,28806
+4907,tyler,TX,75703
+4909,reno,NV,89511
+4965,"new york",NY,10019
+5002,"coral springs",FL,33071
+5004,charlotte,NC,28211
+5006,hermitage,TN,37076
+5102,"ft. lauderdale",FL,33304
+5103,cincinnati,OH,45236
+5104,charlotte,NC,28212
+5106,independence,MO,64055
+5200,mobile,AL,99999
+5202,plantation,FL,33388
+5203,cincinnati,OH,45246
+5204,gastonia,NC,28054
+5206,"lee's summit",MO,64063
+5300,nashville,TN,99999
+5302,"pembroke pines",FL,33026
+5303,cincinnati,OH,45251
+5304,florence,AL,35630
+5306,raytown,MO,64133
+5402,"boynton beach",FL,33426
+5403,cincinnati,OH,45211
+5404,decatur,AL,35601
+5502,"west palm beach",FL,33401
+5503,"crestview hills",KY,41017
+5504,pineville,NC,28134
+5602,wellington,FL,33414
+5603,cincinnati,OH,45245
+5604,huntsville,AL,35806
+5703,cincinnati,OH,45249
+5704,augusta,GA,30909
+5802,miami,FL,33172
+5803,franklin,OH,45005
+5804,augusta,GA,30909
+5903,richmond,IN,47374
+5904,aiken,SC,29803
+5912,miami,FL,33189
+6002,alpharetta,GA,30022
+6004,huntsville,AL,35801
+6009,stockton,CA,95207
+6100,salisbury,NC,28146
+6102,buford,GA,30519
+6104,charleston,SC,29407
+6109,palmdale,CA,93551
+6113,cleveland,OH,44113
+6200,valdosta,GA,31601
+6202,douglasville,GA,30135
+6203,mentor,OH,44060
+6204,"north charleston",SC,29406
+6209,"el centro",CA,92243
+6300,olathe,KS,66062
+6302,lithonia,GA,30038
+6303,euclid,OH,44132
+6304,"myrtle beach",SC,29577
+6400,mabelvale,AR,72103
+6402,atlanta,GA,30346
+6403,strongsville,OH,44136
+6404,columbia,SC,29212
+6502,atlanta,GA,30363
+6503,beachwood,OH,44122
+6604,greenville,SC,29607
+6700,"fort worth",TX,76137
+6703,"north olmsted",OH,44070
+6704,spartanburg,SC,29301
+6803,"fairview park",OH,44126
+6804,columbia,SC,29223
+6900,gilbert,AZ,85233
+6902,macon,GA,31206
+6903,elyria,OH,44035
+6904,wilmington,NC,28403
+7002,tuscaloosa,AL,35405
+7003,ashtabula,OH,44004
+7004,norfolk,VA,23510
+7007,"the woodlands",TX,77380
+7100,"ft worth",TX,76137
+7102,montgomery,AL,36117
+7103,akron,OH,44333
+7104,"virginia beach",VA,23452
+7107,houston,TX,77070
+7202,montgomery,AL,36117
+7203,akron,OH,44322
+7204,chesapeake,VA,23320
+7207,houston,TX,77060
+7300,olathe,KS,66062
+7302,auburn,AL,36830
+7303,canton,OH,44718
+7304,chesapeake,VA,23321
+7307,houston,TX,77082
+7402,dothan,AL,36303
+7403,boardman,OH,44512
+7404,"newport news",VA,23602
+7407,houston,TX,77024
+7500,louisville,KY,40299
+7502,columbus,GA,31909
+7503,niles,OH,44446
+7507,houston,TX,77056
+7567,houston,TX,77055
+7600,salisbury,NC,28146
+7602,albany,GA,31707
+7603,toledo,OH,43623
+7604,richmond,VA,23233
+7617,houston,TX,77036
+7700,"ft. worth",TX,76137
+7702,savannah,GA,31419
+7703,toledo,OH,43614
+7704,richmond,VA,23235
+7707,"sugar land",TX,77479
+7800,"ft worth",TX,76137
+7804,"glen allen",VA,23060
+7807,pasadena,TX,77506
+7813,toledo,OH,43612
+7900,olathe,KS,66062
+7902,oxford,AL,36203
+7903,toledo,OH,43606
+7904,richmond,VA,23235
+7907,friendswood,TX,77546
+8002,"baton rouge",LA,70815
+8004,"colonial heights",VA,23834
+8006,"little rock",AR,72201
+8007,humble,TX,77338
+8102,lafayette,LA,70503
+8104,tulsa,OK,74135
+8106,"little rock",AR,72201
+8109,littleton,CO,80124
+8202,houma,LA,70364
+8204,tulsa,OK,74135
+8206,"little rock",AR,72201
+8209,aurora,CO,80012
+8302,kenner,LA,70065
+8304,tulsa,OK,74134
+8306,"little rock",AR,72201
+8309,centennial,CO,80122
+8402,metairie,LA,70002
+8403,paducah,KY,42001
+8404,tulsa,OK,74133
+8406,"little rock",AR,72201
+8407,"lake jackson",TX,77566
+8409,littleton,CO,80123
+8503,"bowling green",KY,42104
+8504,bartlesville,OK,74006
+8506,"little rock",AR,72201
+8507,"texas city",TX,77591
+8509,aurora,CO,80021
+8512,marreor,LA,70072
+8519,lakewood,CO,80226
+8602,gretna,LA,70053
+8603,lexington,KY,40502
+8604,muskogee,OK,74401
+8607,beaumont,TX,77706
+8609,westminster,CO,80030
+8702,slidell,LA,70460
+8703,lexington,KY,40503
+8706,"little rock",AR,72201
+8707,"port arthur",TX,77642
+8709,broomfield,CO,80021
+8802,hammond,LA,70403
+8803,lexington,KY,40504
+8808,"little rock",AR,72201
+8902,hattiesburg,MS,39402
+8906,"little rock",AR,72201
+9000,gilbert,AZ,85233
+9002,"new orleans",LA,70127
+9100,xxxxxxxxxxxxxxxxxxxx,TX,99999
+9103,louisville,KY,40207
+9104,enid,OK,73703
+9106,"los angeles",CA,90079
+9112,"baton rouge",LA,70806
+9202,meridian,MS,39301
+9204,"oklahoma city",OK,73134
+9206,arlington,TX,76011
+9209,pueblo,CO,81008
+9302,"baton rouge",LA,70836
+9303,louisville,KY,40216
+9304,"oklahoma city",OK,73118
+9306,arlington,TX,76011
+9309,"colorado springs",CO,80909
+9402,"lake charles",LA,70601
+9403,louisville,KY,40202
+9404,"oklahoma city",OK,73149
+9409,"colorado springs",CO,80920
+9503,clarksville,IN,47129
+9504,norman,OK,73072
+9506,"new york",NY,10036
+9512,"baton rouge",LA,70802
+9603,louisville,KY,40219
+9604,"midwest city",OK,73110
+9609,longmont,CO,80501
+9700,tempe,AZ,85281
+9704,shawnee,OK,74804
+9706,nashville,TN,37207
+9708,"baton rouge",LA,70802
+9709,greeley,CO,80631
+9800,"little rock",AR,72201
+9804,lawton,OK,73501
+9806,mabelvale,AR,72103
+9808,gilbert,AZ,85233
+9812,metairie,LA,70006
+9900,"little rock",AR,72201
+9906,"little rock",AR,72201
+9909,cheyenne,WY,82009
